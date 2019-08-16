@@ -4,7 +4,7 @@ Application Name: **Schedule Master**
 
 Technology Used (Minimum Project Requirements):
 
-- Front End Framework: Angular
+- Front End Framework: ReactJS
 - Back End Framework: Node + Express
 - Database: NoSQL
 - Style: CSS
